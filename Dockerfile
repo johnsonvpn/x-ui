@@ -13,3 +13,4 @@ FROM enwaiax/x-ui:latest
 
 # 暴露默认端口 54321
 EXPOSE 54321
+EXPOSE 37439
